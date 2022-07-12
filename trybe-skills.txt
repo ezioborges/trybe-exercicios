@@ -3,3 +3,4 @@ o que eu vou aprender na trybe
 - Unix
 - Bash
 - Git
+Na proxima aula realizaremos estudos referentes a internet
