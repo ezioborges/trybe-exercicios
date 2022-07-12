@@ -3,3 +3,7 @@ o que eu vou aprender na trybe
 - Unix
 - Bash
 - Git
+- HTML
+- CSS
+
+- nova skills a ser adquirida será referente a internet
