@@ -5,3 +5,4 @@ o que eu vou aprender na trybe
 - Git
 - HTML
 - CSS
+- nova skills a ser adquirida será referente a internet
