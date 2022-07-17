@@ -1,0 +1,44 @@
+h1, h3 {
+    color: red;
+}
+
+h1 {
+    font-size: 40px;
+    border: 1px solid black;
+}
+
+li {
+    font-size: 20px;
+}
+
+ol li {
+    font-weight: bold;
+}
+
+.ordered-list {
+    background-color: yellow;
+}
+
+.odd {
+    text-transform: uppercase;
+}
+
+.pair {
+    color: green;
+}
+
+.three {
+    color: blue;
+}
+
+.pink {
+    background-color: pink;
+}
+
+.bold:hover {
+    font-weight: bold;
+}
+
+a:hover {
+    color: #036b52;
+}
