@@ -1,0 +1,19 @@
+div h3 {
+    margin: 0;
+}
+
+div:hover {
+    border: solid;
+    background-color: yellow;
+}
+
+h3 {
+    width: 60%;
+}
+
+h3:hover {
+    font-family: monospace;
+    background-color: yellow;
+    width: 60%;
+}
+
