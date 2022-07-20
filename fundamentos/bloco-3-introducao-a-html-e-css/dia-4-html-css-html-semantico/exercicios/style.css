@@ -1,5 +1,136 @@
+body {
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+article {
+  margin-top: 8%;
+  padding: 10px;
+}
+
+aside {
+  position: absolute;
+  top: 500px;
+  left: 900px;
+  background-color: rgb(169, 176, 181);
+  border-radius: 5px;
+  text-align: center;
+  padding: 10px;
+}
+
+footer {
+  padding: 8px;
+  background-color: rgb(169, 176, 181);
+  text-align: end;
+  box-shadow: rgba(0, 0, 0, 0.4) 20px 20px 20px 20px;
+}
+
+footer p {
+  position: relative;
+  left: 350px;
+  margin-top: 18px;
+}
+
+h2,
+h3 {
+  color: #cb450c;
+}
+
+h1 {
+  margin-top: 0;
+  padding-top: 15px;
+  color: #fff;
+}
+
+h2 {
+  margin-top: 0;
+  padding: 20px 0 0 15px;
+}
+
+header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: rgb(0, 162, 255);
+  height: 120px;
+  text-align: center;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  z-index: 1;
+}
+
+p {
+  width: 70%;
+  margin-top: 3px;
+}
+
+section {
+  margin: 20px;
+}
+
+section img {
+  float: left;
+}
+
+ul.header li {
+  display: inline;
+  padding: 10px 20px;
+  margin: 10px;
+}
+
+ul.header li:hover {
+  background-color: rgb(97, 192, 247);
+  border-radius: 5px;
+}
+
+ul.aside li a {
+  margin-right: 47px;
+  line-height: 30px;
+}
+
+ul.aside li a:hover {
+  color: aliceblue;
+  font-weight: bold;
+}
+
+li {
+  list-style-type: none;
+}
+
 table,
 th,
 td {
-  border: 1px solid black;
+  border: 1px solid #cb450c;
+  border-collapse: collapse;
+  padding: 10px;
+}
+
+.font-nav {
+  color: #fff;
+  font-weight: bold;
+}
+.align-text {
+  margin-left: 410px;
+}
+
+.link-video:hover {
+  color: #fff;
+}
+
+.space-img {
+  margin-top: 50px;
+}
+
+.space-top {
+  padding-top: 50px;
+}
+
+.space-of-title {
+  padding-top: 20px;
+  margin: 0;
 }
