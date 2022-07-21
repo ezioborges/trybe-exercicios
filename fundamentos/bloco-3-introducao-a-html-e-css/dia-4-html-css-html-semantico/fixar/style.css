@@ -1,0 +1,55 @@
+ul.podium li:nth-child(1) {
+  margin-left: 40%;
+  list-style-type: none;
+}
+
+ul.podium li:nth-child(2) {
+  position: absolute;
+  margin-left: 22.5%;
+  display: inline;
+  top: 130px;
+  list-style-type: none;
+}
+
+ul.podium li:nth-child(3) {
+  margin-left: 48%;
+  list-style-type: none;
+}
+
+h1 {
+  text-align: center;
+}
+
+.award {
+  text-align: center;
+  margin-right: 47px;
+}
+
+section.award ul li {
+  display: inline;
+  list-style-type: none;
+}
+
+.first {
+  background-color: rgb(235, 200, 84);
+  font-size: 20px;
+  height: 50px;
+  text-align: center;
+  width: 200px;
+}
+
+.second {
+  background-color: rgb(219, 219, 219);
+  font-size: 20px;
+  height: 50px;
+  text-align: center;
+  width: 300px;
+}
+
+.third {
+  background-color: rgb(170, 142, 106);
+  font-size: 20px;
+  height: 50px;
+  text-align: center;
+  width: 300px;
+}
