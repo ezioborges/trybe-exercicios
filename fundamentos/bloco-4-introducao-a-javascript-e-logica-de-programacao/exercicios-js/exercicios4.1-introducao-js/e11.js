@@ -1,4 +1,4 @@
-let wage = 6000;
+let wage = 3000;
 
 if (wage <= 1556.94) {
   let discount = wage * 0.08;
