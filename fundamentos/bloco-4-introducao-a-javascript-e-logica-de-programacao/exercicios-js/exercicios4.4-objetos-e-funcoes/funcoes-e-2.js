@@ -1,5 +1,4 @@
 let myArrey = [22, 7, 20, 67, 10, 12];
-let biggerValue = 0;
 
 function bigger (array) {
     for(let i = 0; i < array.length; i += i) {
