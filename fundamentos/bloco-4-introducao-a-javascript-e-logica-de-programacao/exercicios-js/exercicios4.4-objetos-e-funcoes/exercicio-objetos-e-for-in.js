@@ -26,7 +26,7 @@ for (key in info) {
 //   EXERCICIO 4
 
 for (key in info) {
-    // console.log(info[key])
+    console.log(info[key])
 }
 
 //  EXERCICIO 5
@@ -74,4 +74,4 @@ leitor['livrosFavoritos'][1] =  {
   }
 
 //   console.log(leitor)
-console.log("Julia tem 2 livros favoritos: " + leitor['livrosFavoritos'][0]['titulo'] + ' e ' + leitor['livrosFavoritos'][1]['titulo'])
+// console.log("Julia tem 2 livros favoritos: " + leitor['livrosFavoritos'][0]['titulo'] + ' e ' + leitor['livrosFavoritos'][1]['titulo'])
